@@ -11,7 +11,7 @@ import com.example.Part1_Api_Service.Model.ResponseMessage;
 
 
 @RestController
-@CrossOrigin
+
 public class ControllerService {
 
 
